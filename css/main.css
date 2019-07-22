@@ -4,7 +4,7 @@ layout: null
 
 @import url("pygment_highlights.css");
 @import url('https://fonts.googleapis.com/css?family=Rye&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Barriecito&display=swap');
 
 /* --- General --- */
 
@@ -339,7 +339,7 @@ footer .theme-by {
 .post-preview .post-title {
   font-size: 30px;
   margin-top: 0;
-  font-family: 'Rye', cursive;
+  font-family: 'Barriecito', cursive;
    }
 .post-preview .post-subtitle {
   margin: 0;
