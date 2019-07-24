@@ -1,8 +1,10 @@
 ---
 layout: null
+published: true
 ---
 
 @import url("pygment_highlights.css");
+@import url('https://fonts.googleapis.com/css?family=Sancreek&display=swap');
 
 /* --- General --- */
 
@@ -108,7 +110,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Sancreek', cursive;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img | relative_url }});
   background-attachment: fixed;
