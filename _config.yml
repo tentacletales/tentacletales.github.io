@@ -4,6 +4,7 @@
 title: Home
 # Short description of your site
 description: A fanzine about the Weird West and the Dark Trails RPG Game
+bigimg: "/img/gunslinger.png"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -52,7 +53,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/img/bgimage.png"
 footer-img: "/img/bgimage.png"
-page-img: "/img/gunslinger.png"
+# page-img: "/img/gunslinger.png"
 
 
 # --- Footer options --- #
