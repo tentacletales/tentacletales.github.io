@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: What's This Weird West Thang?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Six-Gun Sorcery - The Idea
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The idea for this podcast came up in the [Dark Trails RPG Facebook Page](https://www.facebook.com/groups/darktrailsrpg).
 
-What else do you need?
+Marshall Joan and I figured that since there were a couple of great podcasts covering the Apprendix N literature of our favorite game [DCC RPG](https://goodman-games.com/dungeon-crawl-classics-rpg/) - namely [The Appendix N Book Club](http://www.appendixnbookclub) and [Sanctum Secorum](https://www.sanctum.media) - there should be a podcast for "Appendix W" that supplements all the Weird West gaming out there including David Baity's [Dark Trails](http://www.darktrailsrpg.com).
 
-### my history
+## Six-Gun Sorcery - The Content
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This podcast will review and discuss. TV and Film, literature and gaming as it pertains to the Weird West and Appendix W. We might have some special guests and we'll most certainly have a rip-roaring time talking about weird stuff, the wild west and our favorite hobby RPG gaming.
+
+## What The Heck Is This "Appendix N" Pardner?
+
+We think that [this article on Goodman Games](https://goodman-games.com/blog/2018/03/26/what-is-appendix-n/) best sums it all up!
