@@ -480,10 +480,11 @@ footer .theme-by {
   font-size: 35px;
 }
 .page-subheading{
-font-size: 27px;
+font-size: 80px;
   line-height: 1.1;
   display: block;
   font-family: 'Creepster', cursive;
+  color: red;
   font-weight: 300;
   margin: 10px 0 0;
 }
