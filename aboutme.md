@@ -12,7 +12,9 @@ Marshall Joan and I figured that since there were a couple of great podcasts cov
 
 ## Six-Gun Sorcery - The Content
 
-This podcast will review and discuss. TV and Film, literature and gaming as it pertains to the Weird West and Appendix W. We might have some special guests and we'll most certainly have a rip-roaring time talking about weird stuff, the wild west and our favorite hobby RPG gaming.
+This podcast will review and discuss. TV and Film, literature and gaming as it pertains to the Weird West and Appendix W. 
+
+We might have some special guests and we'll most certainly have a rip-roaring time talking about weird stuff, the weird wild west and our favorite hobby RPG gaming.
 
 ## What The Heck Is This "Appendix N" Pardner?
 
