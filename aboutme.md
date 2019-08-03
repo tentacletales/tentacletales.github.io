@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About The Project
-subtitle: A Dark Trails RPG Fanzine
+#subtitle: A Dark Trails RPG Fanzine
 ---
 
 # What is “Tales of the Tentacled Gunslinger”?
