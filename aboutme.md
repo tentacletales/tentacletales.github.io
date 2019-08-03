@@ -4,8 +4,6 @@ title: About The Project
 #subtitle: A Dark Trails RPG Fanzine
 ---
 
-# What is “Tales of the Tentacled Gunslinger”?
-
 Tales of the Tentacled Gunslinger is a weird west fanzine inspired by and specifically for the [Dark Trails RPG](http://www.darktrailsrpg.com) by David Baity.
 
 With this fanzine I hope to inspire and to assist your Dark Trails Weird West gaming experience with providing you with scenarios, monsters, stats, guns and more.
