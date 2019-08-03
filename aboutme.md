@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About The Project
+subtitle: A Dark Trails RPG Fanzine
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# What is “Tales of the Tentacled Gunslinger”?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Tales of the Tentacled Gunslinger is a weird west fanzine inspired by and specifically for the Dark Trails RPG by David Baity.
 
-What else do you need?
+With this fanzine I hope to inspire and to assist your Dark Trails Weird West gaming experience with providing you with scenarios, monsters, stats, guns and more.
 
-### my history
+Tales of the Tentacled Gunslinger, like Dark Trails is DCC RPG compatible - but don't let that stop you for using it for other Weird West gaming.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The fanzine is a love letter to both the mythic wild west that exists in Spaghetti Westerns, Steampunk and books like Deadmans’s Road by Joe Lansdale and the stranger than fiction tales of the actual Wild West.
+
+As such, it should fit nicely into any gaming system with a little tweaking.
