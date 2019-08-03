@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About The Project
+title: About The Fanzine
 #subtitle: A Dark Trails RPG Fanzine
 ---
 
