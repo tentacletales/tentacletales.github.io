@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The Bedlamite
-Subtitle: Fiction by Pete Spahn
+subtitle: Fiction by Pete Spahn
 ---
 
-**Editor’s Note:** This is the first in a series of short fiction based on Dark Trails RPG classes by Pete Spahn. As part of separate project Pete and his partner Brandon Goeringer have a separate  where they stat out the story.
+**Editor’s Note:** This is the first in a series of short fiction based on [Dark Trails RPG](https://www.darktrailsrpg.com) classes by Pete Spahn. As part of separate project Pete and his partner Brandon Goeringer have a separate  where they stat out the story.
 
 >>**Bedlamite**: Absent-minded inventors constantly constructing inventions that defy all logic, including “wondrous” contraptions that are brought to life by their creator’s sheer force of will. Bedlamites often become addle-brained and introverted, preferring the company of their automatons to that of their allies.[^1]
 
