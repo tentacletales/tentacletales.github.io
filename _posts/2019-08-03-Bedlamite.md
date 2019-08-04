@@ -2,6 +2,7 @@
 layout: post
 title: The Bedlamite
 subtitle: Fiction by Pete Spahn
+comments: true
 ---
 
 **Editor’s Note:** This is the first in a series of short fiction based on [Dark Trails RPG](https://www.darktrailsrpg.com) classes by Pete Spahn. As part of separate project Pete and his partner Brandon Goeringer have a separate  where they stat out the story.
