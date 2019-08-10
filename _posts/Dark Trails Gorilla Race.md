@@ -8,7 +8,7 @@ comments: true
 ---
 
 I had been thinking about a Gorilla race template for [Dark Trails RPG](https://www.darktrailsrpg.com) based on Tuesday Night Fiend Club's excellent [Star Crawl](https://http://www.tuesdaynightfiendclub.com/) race templates.
-Fortunately Justin Ryan Isaac on the [Dark Trails Facebook Group]9https://www.facebook.com/groups/darktrailsrpg/) kicked me into action.
+Fortunately Justin Ryan Isaac on the [Dark Trails Facebook Group](https://www.facebook.com/groups/darktrailsrpg/) kicked me into action.
 
 Without further ado here is my Great Apes Dark Trails Race Template.(I also have a mouseling templateI'll repost here). 
 
