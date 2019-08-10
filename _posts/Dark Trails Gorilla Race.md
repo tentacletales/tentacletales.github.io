@@ -3,7 +3,7 @@ layout: post
 title: Dark Trails Great Ape Race Template
 subtitle: by Mike Harrington
 tags: [Dark Trails, Race Template, Ape]
-image: /img/gorilla_gunslinger.png
+#image: /img/gorilla_gunslinger.png
 comments: true
 ---
 
