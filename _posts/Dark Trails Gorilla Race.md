@@ -7,14 +7,14 @@ tags: [Dark Trails, Race Template, Ape]
 comments: true
 ---
 
->>I had been thinking about a Great Ape race template for [Dark Trails RPG](https://www.darktrailsrpg.com) based on Tuesday Night Fiend Club's excellent [Star Crawl](https://http://www.tuesdaynightfiendclub.com/) race templates.
+I had been thinking about a Great Ape race template for [Dark Trails RPG](https://www.darktrailsrpg.com) based on Tuesday Night Fiend Club's excellent [Star Crawl](https://http://www.tuesdaynightfiendclub.com/) race templates.
 Fortunately, Justin Ryan Isaac on the [Dark Trails Facebook Group](https://www.facebook.com/groups/darktrailsrpg/) kicked me into action.
 
->>This template is designed for any of the Great Ape species - e.g. Gorilla, Orangutan etc.
+This template is designed for any of the Great Ape species - e.g. Gorilla, Orangutan etc.
 
->>Without further ado here is my Great Apes Dark Trails Race Template.(I also have a mouseling template I'll repost here). 
+Without further ado here is my Great Apes Dark Trails Race Template.(I also have a mouseling template I'll repost here). 
 
->>Apologies again to **David Baity** and **Jonathan Snodgrass**!
+Apologies again to **David Baity** and **Jonathan Snodgrass**!
 
 # Great Ape Dark Trails Race Template
 
