@@ -4,6 +4,7 @@ title: Dark Trails Great Ape Race Template
 subtitle: by Mike Harrington
 tags: [Dark Trails, Race Template, Ape]
 image: /img/gorilla_gunslinger.png
+comments: true
 ---
 
 I had been thinking about a Gorilla race template for [Dark Trails RPG](https://www.darktrailsrpg.com) based on Tuesday Night Fiend Club's excellent [Star Crawl](https://http://www.tuesdaynightfiendclub.com/) race templates.
