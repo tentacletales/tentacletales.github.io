@@ -32,7 +32,7 @@ Skill checks: +1d  (anything strength related),  +2d climb checks (from page 7 o
 
 15’ movement when walking upright due to unusual gait. 30’ movement when using all four limbs to move.
 
-**Brachiation** – some great apes like Orangutans can move with ease through the trees (30’ movement). These types of apes suffer another 5’ movement penalty when trying to walk outside of the trees.
+**Brachiation** – some great apes like Orangutans can move with ease through the trees (30’ movement). These types of apes suffer another 5’ movement penalty when trying to walk outside of the trees. This type of movement can be applied when swinging off structures, e.g. chandoliers, or climbing buildings etc.
 
 **Intimidation** - Great Apes can inspire fear in other creatures - +1d to checks involving intimidation and fear
 
