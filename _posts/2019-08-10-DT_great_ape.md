@@ -36,7 +36,7 @@ Skill checks: +1d  (anything strength related),  +2d climb checks (from page 7 o
 
 **Intimidation** - Great Apes can inspire fear in other creatures - +1d to checks involving intimidation and fear
 
-**Anger**- Great apes are prone to anger. When entering battle, they should roll a will save DC 12 or become enraged suffering -1d rolls on any attacks involving increased mental awareness (like wielding a gun). 
+**Anger**- Great apes are prone to anger. When entering battle, they should roll a will save DC 12 or become enraged suffering -1d rolls on any attacks involving increased mental awareness (like wielding a gun). All attacks that involve brute force , i.e. fists, club etc gain a +2 to damage.
 
 This lasts for one round and then allow another check for the great ape to regain control of its instincts. 
 
