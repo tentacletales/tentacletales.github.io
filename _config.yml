@@ -1,9 +1,9 @@
 # --- General options --- #
 
 # Name of website
-title: Home
+title: Tales of the Tentacled Gunslinger
 # Short description of your site
-description: A fanzine about the Weird West and the Dark Trails RPG Game
+description: A Dark Trailsand Weird West Fanzine
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
