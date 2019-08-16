@@ -275,6 +275,10 @@ footer {
   {% endif %}
 }
 
+footer .banner {
+  text-align: center;
+}
+
 footer p.text-muted {
   color: {{ site.footer-text-col }};
 }
