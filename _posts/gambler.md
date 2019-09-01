@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Calavera
+title: The Gambler
 subtitle: Fiction by Pete Spahn
 comments: true
 image: /img/deadman's hand.jpg
