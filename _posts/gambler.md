@@ -7,7 +7,7 @@ image: /img/deadman's hand.jpg
 tags: [Dark Trails, Short Gaming Fiction, Gambler]
 ---
 
-**Editor’s Note:** This is the second in a series of short fiction based on [Dark Trails RPG](https://www.darktrailsrpg.com) classes by Pete Spahn. As part of separate project Pete and his partner Brandon Goeringer stat out the story.
+**Editor’s Note:** This is the third in a series of short fiction based on [Dark Trails RPG](https://www.darktrailsrpg.com) classes by Pete Spahn. As part of separate project Pete and his partner Brandon Goeringer stat out the story.
 
 >>**Gambler:** With the big changes running through the weird West, the gambler could be called the chosen paladin of Lady Luck, able to manipulate the ebb and flow of chance like an occultist weaves arcane energy. Gamblers alter the probability of events going on in their surroundings and have a skill set that favors thievery and subterfuge.[^1]
 
