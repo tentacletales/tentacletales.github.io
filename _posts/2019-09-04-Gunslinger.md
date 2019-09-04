@@ -6,6 +6,7 @@ comments: true
 image: /img/leevancleef.jpg
 tags: [Dark Trails, Short Gaming Fiction, Gunslinger]
 ---
+**Editor’s Note:** This is the fourth in a series of short fiction based on [Dark Trails RPG](https://www.darktrailsrpg.com) classes by Pete Spahn. As part of separate project Pete and his partner Brandon Goeringer stat out the story.
 
 >>**Gunslinger:** Sometimes, a poor soul is cut down before their time, and when that person is a law-dog or hardened soldier even death isn’t enough to discourage them from staying in the fight. These restless spirits possess the guns they died with and send out a call to those deemed worthy of carrying them. Gunslingers find their uncanny skill at gunplay supernaturally elevated by the spirits of vengeance that choose them.[^1]
  
