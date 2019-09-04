@@ -3,6 +3,7 @@ layout: post
 title: The Bedlamite
 subtitle: Fiction by Pete Spahn
 comments: true
+image: /img/bedlamite.jpg
 tags: [Dark Trails, Short Gaming Fiction, Bedlamite]
 ---
 
