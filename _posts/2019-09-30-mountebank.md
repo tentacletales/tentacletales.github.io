@@ -157,6 +157,6 @@ In the meantime, Dr. Ebershaum tried to figure out what ingredient might have ca
 
 Next time.
 
-The End
+**The End**
 
 [^1]: Included for those not familiar with the Class
