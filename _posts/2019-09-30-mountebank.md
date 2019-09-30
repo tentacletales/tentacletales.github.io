@@ -3,7 +3,7 @@ layout: post
 title: The Mountebank
 subtitle: Fiction by Pete Spahn
 comments: true
-image: /img/mountebank-large.md
+image: /img/mountebank-large.jpg
 tags: [Dark Trails, Short Gaming Fiction, Mountebank]
 ---
 
