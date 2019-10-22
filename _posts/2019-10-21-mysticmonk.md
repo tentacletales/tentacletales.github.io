@@ -3,7 +3,7 @@ layout: post
 title: The Mystic Monk
 subtitle: Fiction by Pete Spahn
 comments: true
-image: /img/kung_fu.jpg
+image: /img/kung_fu.jpeg
 tags: [Dark Trails, Short Gaming Fiction, Mystic Monk]
 ---
 
