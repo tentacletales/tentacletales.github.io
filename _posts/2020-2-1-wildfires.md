@@ -10,7 +10,7 @@ This past year, an early and unusally dry and hot drought season combined with C
 
 ![Austrailia Wildfires](https://ichef.bbci.co.uk/news/660/cpsprodpb/14644/production/_110242538_gettyimages-1194815171.jpg)
 
-A mindnumbing 1 billion animals are now estimated dead due the fires in Australia fires and More than 15.6 million acres have been decimated. The number of kangaroos, koalas, and others killed keeps skyrocketing and estimates of economic impact to humans is also mindblowing - at least 24 people killed, over 1,400 homes destroyed. The costs of the fires in Sydney alone are estimated at **50 million a day**.
+A mindnumbing 1 billion animals are now estimated dead due the fires in Australia fires and more than 15.6 million acres have been decimated. The number of kangaroos, koalas, and others killed keeps skyrocketing and estimates of economic impact to humans is also mindblowing - at least 24 people killed, over 1,400 homes destroyed. The costs of the fires in Sydney alone are estimated at **50 million a day**.
 
 ![Koala Recovering From Burns](https://cdn.vox-cdn.com/thumbor/yHeLY1TEvQIssgBEBfuUhJiUgQM=/0x0:5184x3456/1120x0/filters:focal(0x0:5184x3456):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19577725/GettyImages_1185446528.jpg)
 
