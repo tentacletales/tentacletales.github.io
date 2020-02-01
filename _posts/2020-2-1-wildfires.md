@@ -6,7 +6,7 @@ comments: true
 image: /img/wildfire.jpg
 tags: [Dark Trails RPG, Australia Relief, Raffle]
 ---
-This past year an early and unusally dry and hot drought season combined with Climate Change resulted in a horrific series of fires in Austrailia which continues to burn to this day.
+This past year, an early and unusally dry and hot drought season combined with Climate Change, resulted in a horrific series of fires in Australia which continues to burn to this day.
 
 ![Austrailia Wildfires](https://ichef.bbci.co.uk/news/660/cpsprodpb/14644/production/_110242538_gettyimages-1194815171.jpg)
 
