@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Australia Relief Raffle 
-subtitle: by David Baity
+subtitle: by Mike Harrington
 comments: true
 image: /img/wildfire.jpg
 tags: [Dark Trails RPG, Australia Relief, Raffle]
