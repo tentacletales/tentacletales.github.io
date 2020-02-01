@@ -39,13 +39,13 @@ The response has been amazing! Folks have jumped on board and offered some amazi
 So, let’s get to the fun part of the post! You’ll find all the prizes going into the raffle listed below. I’m also including a link to visuals for those wishing to take a peek at the loot! SC= soft cover HB= hardback. You can find an album with pics of all the prize support [here](https://photos.app.goo.gl/XHpngjcg4Hzzg5FK7)
 
 [Goodman Games](https://goodman-games.com/):
-Grimtooth’s Ultimate Traps Collection (faux leather edition),
-Dungeon Crawl Classics rulebook (faux leather edition)
-Dungeon Crawl Classics Annual #1 (faux leather edition)
-Sailors of the Starless Sea adventure (HB faux leather edition),
-Dungeon Crawl Classics adventures #99, #98, #97, #96, #95, #94, #93, #92,#76,#75, #74, #73, #72, #71, #70, #69, #68, and #67 (all adventures are SC)
-GM Gems (HB)
-Into the Borderlands 5E (HB)
+* Grimtooth’s Ultimate Traps Collection (faux leather edition),
+* Dungeon Crawl Classics rulebook (faux leather edition)
+* Dungeon Crawl Classics Annual #1 (faux leather edition)
+* Sailors of the Starless Sea adventure (HB faux leather edition),
+* Dungeon Crawl Classics adventures #99, #98, #97, #96, #95, #94, #93, #92,#76,#75, #74, #73, #72, #71, #70, #69, #68, and #67 (all   adventures are SC)
+* GM Gems (HB)
+* Into the Borderlands 5E (HB)
 
 [Stefan Poag](https://stefanpoag.com/):
 One original piece of art
@@ -57,28 +57,28 @@ A selection of three RPG stamps, adventure journals and magical adventure dice b
 Full set of dice
 
 [Vance Games](https://www.facebook.com/vancegameshomepage/?__tn__=%2Cd%2CP-R&eid=ARB9my561ZNQMS6THYdmnAMOkcIY2p9SserKWgs5PkbzzNvAs_a0vWP-l4Toee-Cg29wQVq9ZRaPt1Y4):
-Escape from the Demon Inn adventure (SC)
-Temple of the Hamster adventure (SC)
-Mother’s Maze adventure (SC)
+* Escape from the Demon Inn adventure (SC)
+* Temple of the Hamster adventure (SC)
+* Mother’s Maze adventure (SC)
 
 [Thick Skull Adventures](http://www.thickskulladventures.com):
-The Haunting of Larvik Island adventure
-Stronghold of the Wood Giant Shaman adventure
-Children of the Fallen Sun adventure
+* The Haunting of Larvik Island adventure
+* Stronghold of the Wood Giant Shaman adventure
+* Children of the Fallen Sun adventure
 
 [Mudpuppy Games](http://mudpuppycomics.com/games/):
 Check this Artifact (HB) MCC supplement.
 
 [Greg Gillespie Publishing](https://www.drivethrurpg.com/browse/pub/4249/Greg-Gillespie?term=greg+gill):
-The Forbidden Caves of Archaia (HB and PDF)
-Highfell (HB and PDF)
-Barrowmaze (HB and PDF)
+* The Forbidden Caves of Archaia (HB and PDF)
+* Highfell (HB and PDF)
+* Barrowmaze (HB and PDF)
 
 [Purple Sorcerer Games](https://purplesorcerer.com/):
-Sunken City Omnibus adventure x5 (PDF
-Escape from the Shrouded Fen adventure x5 (PDF)
-Carnival of the Damned adventure x5 (PDF)
-Nebin Pendlebrooks Perilous Pantry adventure x5 (PDF)
+* Sunken City Omnibus adventure x5 (PDF
+* Escape from the Shrouded Fen adventure x5 (PDF)
+* Carnival of the Damned adventure x5 (PDF)
+* Nebin Pendlebrooks Perilous Pantry adventure x5 (PDF)
 
 [Purple Pirate Games](https://purplepirategames.com/):
 Secrets of the World Harvesters adventure (SC and PDF)
@@ -87,33 +87,33 @@ Secrets of the World Harvesters adventure (SC and PDF)
 DCC dice organizer tray (dice for show and not included)
 
 [Steve Bean Games](http://www.stevebeangames.com/):
-DCC-Null Singularity adventure (SC)
-DCC-World Quest of the Winter Clock adventure (SC)
-DCC-Rock God Death Fugue adventure (SC)
-DCC- Slave Drones of the Fantastiplex adventure (SC)
-DCC-Chained Coffin (gold and silver foil edition SC)
-50 Fantastic Functions for the d50 (SC)
-DCC-The Monster Alphabet (HB)
-DCC- Pack of scratch-off character sheets
-Incredible Lifeforms- a coloring book (SC)
-Metamorphosis Alpha poster of the Warden
-3 random Reaper miniatures
-Dubious Alliance- A Fantasy Bluffing Card Game
-Robotech Tactics Miniature Game.
+* DCC-Null Singularity adventure (SC)
+* DCC-World Quest of the Winter Clock adventure (SC)
+* DCC-Rock God Death Fugue adventure (SC)
+* DCC- Slave Drones of the Fantastiplex adventure (SC)
+* DCC-Chained Coffin (gold and silver foil edition SC)
+* 50 Fantastic Functions for the d50 (SC)
+* DCC-The Monster Alphabet (HB)
+* DCC- Pack of scratch-off character sheets
+* Incredible Lifeforms- a coloring book (SC)
+* Metamorphosis Alpha poster of the Warden
+* 3 random Reaper miniatures
+* us Alliance- A Fantasy Bluffing Card Game
+* Robotech Tactics Miniature Game
 
 [Shield of Faith Studios](https://www.facebook.com/ShieldofFaithStudios/) :
 **Note-All prizes listed below fall under the Crawling Under a Broken Moon post-apocalypse RPG
 based off of the DCC RPG.**
-Umerican Survival Guide
-Slave Drones of the Fantastiplex adventure (SC and PDF)
-Burger Wars adventure (SC and PDF)
-Twisted Menagerie Manual adventure (SC and PDF)
-Killer of Giants adventure (SC and PDF)
-Damn Tasty adventure (SC and PDF)
-Children of the Sun adventure (SC and PDF)
+* Umerican Survival Guide
+* Slave Drones of the Fantastiplex adventure (SC and PDF)
+* Burger Wars adventure (SC and PDF)
+* Twisted Menagerie Manual adventure (SC and PDF)
+* Killer of Giants adventure (SC and PDF)
+* Damn Tasty adventure (SC and PDF)
+* Children of the Sun adventure (SC and PDF)
 
 [Stiff Whiskers Press](http://www.darktrailsrpg.com/)
-Dark Trails RPG- Gaucho pledge level (you will receive all items and stretch goals listed at the Gaucho pledge level)
-Dark Trails RPG- Rustler pledge level x 5 (you will receive a PDF copy of the game along with digital stretch goals."
+* Dark Trails RPG- Gaucho pledge level (you will receive all items and stretch goals listed at the Gaucho pledge level)
+* Dark Trails RPG- Rustler pledge level x 5 (you will receive a PDF copy of the game along with digital stretch goals."
 
 **Mike Here:** _**Please consider giving to this worthly cause to help the people of Austraila. [Here is the link to donate again](https://www.paypal.com/paypalme/my/profile)**_.
