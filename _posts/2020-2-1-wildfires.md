@@ -34,7 +34,7 @@ The response has been amazing! Folks have jumped on board and offered some amazi
 *	The raffle will begin 2/01/2020 and end on midnight 02/29/2020 with the winner being determined randomly by someone well known in the community other than myself.
 *	Shipping will be covered for physical prizes, some of which I already have on hand, while others will be mailed directly from our generous donors. In the case of a non-US winner, we will strive to work with you on shipping, but you may be partly responsible for some of the charges.
 *	I’ve chosen Wires (Wildlife Information Rescue Education) and GIVIT after doing some research into current organizations raising funds and think you’ll find them worthy of what we raise.
-*	 To donate click [here](https://www.paypal.com/paypalme/my/profile)
+*	 To donate click [here](https://www.paypal.me/mysticmousers)
 
 So, let’s get to the fun part of the post! You’ll find all the prizes going into the raffle listed below. I’m also including a link to visuals for those wishing to take a peek at the loot! SC= soft cover HB= hardback. You can find an album with pics of all the prize support [here](https://photos.app.goo.gl/XHpngjcg4Hzzg5FK7)
 
@@ -116,4 +116,4 @@ based off of the DCC RPG.**
 * Dark Trails RPG- Gaucho pledge level (you will receive all items and stretch goals listed at the Gaucho pledge level)
 * Dark Trails RPG- Rustler pledge level x 5 (you will receive a PDF copy of the game along with digital stretch goals."
 
-**Mike Here:** _**Please consider giving to this worthly cause to help the people of Austraila. [Here is the link to donate again](https://www.paypal.com/paypalme/my/profile)**_.
+**Mike Here:** _**Please consider giving to this worthly cause to help the people of Austraila. [Here is the link to donate again](https://www.paypal.me/mysticmousers)**_.
